@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Carl Nagle
+Main-Class: org.safs.install.SilentInstaller

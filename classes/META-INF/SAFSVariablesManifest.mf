@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+
+Name: staf/service3/info
+Service-Class: org.safs.staf.service.var.SAFSVariableService3
+
+Name: staf/service/info
+Service-Class: org.safs.staf.service.var.SAFSVariableService
+
