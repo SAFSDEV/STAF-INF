@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Created-By: Carl Nagle
 Main-Class: org.safs.install.SilentInstaller
-Class-Path: jna.zip 
+Class-Path: jna-4.2.2.jar jna-platform-4.2.2.jar  
  juniversalchardet-1.0.3.jar 
